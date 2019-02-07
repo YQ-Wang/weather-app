@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YQ-Wang/weather-app.git"
+  },
+  "author": "Yiqing Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YQ-Wang/weather-app/issues"
+  },
+  "homepage": "https://github.com/YQ-Wang/weather-app#readme",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "request": "^2.73.0",
+    "yargs": "^4.8.1"
+  }
+}
